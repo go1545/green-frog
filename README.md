@@ -1,2 +1,2 @@
-#green-frog
-##Example of README.md
+# green-frog
+## Example of README.md
